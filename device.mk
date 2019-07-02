@@ -23,7 +23,8 @@ PRODUCT_ENFORCE_RRO_TARGETS := framework-res
 PRODUCT_PACKAGES += \
     AntHalService \
     com.dsi.ant.antradio_library \
-    libantradio
+    libantradio \
+    MusicX
 
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
